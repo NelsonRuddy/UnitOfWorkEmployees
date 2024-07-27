@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cemlnNgudHc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nelson paulino\\source\\repos\\employeeSystem\\Contracts\\Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nelson paulino\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512"
+  ],
+  "logs": []
+}

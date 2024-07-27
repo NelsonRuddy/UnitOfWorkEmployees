@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nelson paulino\\source\\repos\\employeeSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1394EBF-1071-4642-9BB9-D402F68BAAE9}|Exceptions\\Exceptions.csproj|c:\\users\\nelson paulino\\source\\repos\\employeesystem\\exceptions\\exceptions.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A1394EBF-1071-4642-9BB9-D402F68BAAE9}|Exceptions\\Exceptions.csproj|solutionrelative:exceptions\\exceptions.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90B4184-BCC5-42DE-90D0-F40438F513A5}|Infrastructure\\Infrastructure.csproj|c:\\users\\nelson paulino\\source\\repos\\employeesystem\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A90B4184-BCC5-42DE-90D0-F40438F513A5}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1394EBF-1071-4642-9BB9-D402F68BAAE9}|Exceptions\\Exceptions.csproj|c:\\users\\nelson paulino\\source\\repos\\employeesystem\\exceptions\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1394EBF-1071-4642-9BB9-D402F68BAAE9}|Exceptions\\Exceptions.csproj|solutionrelative:exceptions\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4C709D-6281-438C-825E-69CE78784CB9}|employeeSystem\\employeeSystem.api.csproj|c:\\users\\nelson paulino\\source\\repos\\employeesystem\\employeesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D4C709D-6281-438C-825E-69CE78784CB9}|employeeSystem\\employeeSystem.api.csproj|solutionrelative:employeesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73038125-A1C2-4E93-B943-67AC508B6971}|Application\\Application.csproj|c:\\users\\nelson paulino\\source\\repos\\employeesystem\\application\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73038125-A1C2-4E93-B943-67AC508B6971}|Application\\Application.csproj|solutionrelative:application\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1394EBF-1071-4642-9BB9-D402F68BAAE9}|Exceptions\\Exceptions.csproj|c:\\users\\nelson paulino\\source\\repos\\employeesystem\\exceptions\\customexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1394EBF-1071-4642-9BB9-D402F68BAAE9}|Exceptions\\Exceptions.csproj|solutionrelative:exceptions\\customexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73038125-A1C2-4E93-B943-67AC508B6971}|Application\\Application.csproj|c:\\users\\nelson paulino\\source\\repos\\employeesystem\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{73038125-A1C2-4E93-B943-67AC508B6971}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4C709D-6281-438C-825E-69CE78784CB9}|employeeSystem\\employeeSystem.api.csproj|c:\\users\\nelson paulino\\source\\repos\\employeesystem\\employeesystem\\employeesystem.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8D4C709D-6281-438C-825E-69CE78784CB9}|employeeSystem\\employeeSystem.api.csproj|solutionrelative:employeesystem\\employeesystem.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4C709D-6281-438C-825E-69CE78784CB9}|employeeSystem\\employeeSystem.api.csproj|c:\\users\\nelson paulino\\source\\repos\\employeesystem\\employeesystem\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D4C709D-6281-438C-825E-69CE78784CB9}|employeeSystem\\employeeSystem.api.csproj|solutionrelative:employeesystem\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4C709D-6281-438C-825E-69CE78784CB9}|employeeSystem\\employeeSystem.api.csproj|c:\\users\\nelson paulino\\source\\repos\\employeesystem\\employeesystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D4C709D-6281-438C-825E-69CE78784CB9}|employeeSystem\\employeeSystem.api.csproj|solutionrelative:employeesystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4C709D-6281-438C-825E-69CE78784CB9}|employeeSystem\\employeeSystem.api.csproj|c:\\users\\nelson paulino\\source\\repos\\employeesystem\\employeesystem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D4C709D-6281-438C-825E-69CE78784CB9}|employeeSystem\\employeeSystem.api.csproj|solutionrelative:employeesystem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90B4184-BCC5-42DE-90D0-F40438F513A5}|Infrastructure\\Infrastructure.csproj|c:\\users\\nelson paulino\\source\\repos\\employeesystem\\infrastructure\\data\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90B4184-BCC5-42DE-90D0-F40438F513A5}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90B4184-BCC5-42DE-90D0-F40438F513A5}|Infrastructure\\Infrastructure.csproj|c:\\users\\nelson paulino\\source\\repos\\employeesystem\\infrastructure\\glue\\diextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90B4184-BCC5-42DE-90D0-F40438F513A5}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\glue\\diextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1539DBF-90B3-436B-9E69-B901AE502B56}|Domain\\Domain.csproj|c:\\users\\nelson paulino\\source\\repos\\employeesystem\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C1539DBF-90B3-436B-9E69-B901AE502B56}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1539DBF-90B3-436B-9E69-B901AE502B56}|Domain\\Domain.csproj|c:\\users\\nelson paulino\\source\\repos\\employeesystem\\domain\\validators\\employeevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1539DBF-90B3-436B-9E69-B901AE502B56}|Domain\\Domain.csproj|solutionrelative:domain\\validators\\employeevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90B4184-BCC5-42DE-90D0-F40438F513A5}|Infrastructure\\Infrastructure.csproj|c:\\users\\nelson paulino\\source\\repos\\employeesystem\\infrastructure\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90B4184-BCC5-42DE-90D0-F40438F513A5}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB024DA-D573-466C-9685-15BEB39FF6FB}|Contracts\\Contracts.csproj|c:\\users\\nelson paulino\\source\\repos\\employeesystem\\contracts\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FB024DA-D573-466C-9685-15BEB39FF6FB}|Contracts\\Contracts.csproj|solutionrelative:contracts\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90B4184-BCC5-42DE-90D0-F40438F513A5}|Infrastructure\\Infrastructure.csproj|c:\\users\\nelson paulino\\source\\repos\\employeesystem\\infrastructure\\data\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90B4184-BCC5-42DE-90D0-F40438F513A5}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB024DA-D573-466C-9685-15BEB39FF6FB}|Contracts\\Contracts.csproj|c:\\users\\nelson paulino\\source\\repos\\employeesystem\\contracts\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FB024DA-D573-466C-9685-15BEB39FF6FB}|Contracts\\Contracts.csproj|solutionrelative:contracts\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1539DBF-90B3-436B-9E69-B901AE502B56}|Domain\\Domain.csproj|c:\\users\\nelson paulino\\source\\repos\\employeesystem\\domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1539DBF-90B3-436B-9E69-B901AE502B56}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB024DA-D573-466C-9685-15BEB39FF6FB}|Contracts\\Contracts.csproj|c:\\users\\nelson paulino\\source\\repos\\employeesystem\\contracts\\contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8FB024DA-D573-466C-9685-15BEB39FF6FB}|Contracts\\Contracts.csproj|solutionrelative:contracts\\contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1539DBF-90B3-436B-9E69-B901AE502B56}|Domain\\Domain.csproj|c:\\users\\nelson paulino\\source\\repos\\employeesystem\\domain\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1539DBF-90B3-436B-9E69-B901AE502B56}|Domain\\Domain.csproj|solutionrelative:domain\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Nelson paulino\\source\\repos\\employeeSystem\\Exceptions\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Exceptions\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\Nelson paulino\\source\\repos\\employeeSystem\\Exceptions\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "Exceptions\\ExceptionMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T23:34:40.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomException.cs",
+              "DocumentMoniker": "C:\\Users\\Nelson paulino\\source\\repos\\employeeSystem\\Exceptions\\CustomException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\CustomException.cs",
+              "ToolTip": "C:\\Users\\Nelson paulino\\source\\repos\\employeeSystem\\Exceptions\\CustomException.cs",
+              "RelativeToolTip": "Exceptions\\CustomException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T23:34:38.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exceptions",
+              "DocumentMoniker": "C:\\Users\\Nelson paulino\\source\\repos\\employeeSystem\\Exceptions\\Exceptions.csproj",
+              "RelativeDocumentMoniker": "Exceptions\\Exceptions.csproj",
+              "ToolTip": "C:\\Users\\Nelson paulino\\source\\repos\\employeeSystem\\Exceptions\\Exceptions.csproj",
+              "RelativeToolTip": "Exceptions\\Exceptions.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-26T23:32:48.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "employeeSystem.api.csproj",
+              "DocumentMoniker": "C:\\Users\\Nelson paulino\\source\\repos\\employeeSystem\\employeeSystem\\employeeSystem.api.csproj",
+              "RelativeDocumentMoniker": "employeeSystem\\employeeSystem.api.csproj",
+              "ToolTip": "C:\\Users\\Nelson paulino\\source\\repos\\employeeSystem\\employeeSystem\\employeeSystem.api.csproj",
+              "RelativeToolTip": "employeeSystem\\employeeSystem.api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-25T19:43:05.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\Nelson paulino\\source\\repos\\employeeSystem\\employeeSystem\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "employeeSystem\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\Nelson paulino\\source\\repos\\employeeSystem\\employeeSystem\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "employeeSystem\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T20:24:11.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Nelson paulino\\source\\repos\\employeeSystem\\Application\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\Nelson paulino\\source\\repos\\employeeSystem\\Application\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "Application\\Services\\EmployeeService.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAGwAAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T19:09:12.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Nelson paulino\\source\\repos\\employeeSystem\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Nelson paulino\\source\\repos\\employeeSystem\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-25T18:35:47.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "C:\\Users\\Nelson paulino\\source\\repos\\employeeSystem\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\Nelson paulino\\source\\repos\\employeeSystem\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-25T18:28:59.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nelson paulino\\source\\repos\\employeeSystem\\employeeSystem\\Program.cs",
+              "RelativeDocumentMoniker": "employeeSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Nelson paulino\\source\\repos\\employeeSystem\\employeeSystem\\Program.cs",
+              "RelativeToolTip": "employeeSystem\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAADgvx0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T21:00:00.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nelson paulino\\source\\repos\\employeeSystem\\employeeSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "employeeSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nelson paulino\\source\\repos\\employeeSystem\\employeeSystem\\appsettings.json",
+              "RelativeToolTip": "employeeSystem\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-25T21:00:51.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeeValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Nelson paulino\\source\\repos\\employeeSystem\\Domain\\Validators\\EmployeeValidator.cs",
+              "RelativeDocumentMoniker": "Domain\\Validators\\EmployeeValidator.cs",
+              "ToolTip": "C:\\Users\\Nelson paulino\\source\\repos\\employeeSystem\\Domain\\Validators\\EmployeeValidator.cs",
+              "RelativeToolTip": "Domain\\Validators\\EmployeeValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T18:49:00.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DIExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Nelson paulino\\source\\repos\\employeeSystem\\Infrastructure\\Glue\\DIExtensions.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Glue\\DIExtensions.cs",
+              "ToolTip": "C:\\Users\\Nelson paulino\\source\\repos\\employeeSystem\\Infrastructure\\Glue\\DIExtensions.cs",
+              "RelativeToolTip": "Infrastructure\\Glue\\DIExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T20:12:51.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Nelson paulino\\source\\repos\\employeeSystem\\employeeSystem\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "employeeSystem\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Nelson paulino\\source\\repos\\employeeSystem\\employeeSystem\\Properties\\launchSettings.json",
+              "RelativeToolTip": "employeeSystem\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-26T14:16:23.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Nelson paulino\\source\\repos\\employeeSystem\\Infrastructure\\Data\\Repository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\Repository.cs",
+              "ToolTip": "C:\\Users\\Nelson paulino\\source\\repos\\employeeSystem\\Infrastructure\\Data\\Repository.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T19:28:31.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Nelson paulino\\source\\repos\\employeeSystem\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\Nelson paulino\\source\\repos\\employeeSystem\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-25T18:26:22.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Irepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nelson paulino\\source\\repos\\employeeSystem\\Contracts\\Irepository.cs",
+              "RelativeDocumentMoniker": "Contracts\\Irepository.cs",
+              "ToolTip": "C:\\Users\\Nelson paulino\\source\\repos\\employeeSystem\\Contracts\\Irepository.cs",
+              "RelativeToolTip": "Contracts\\Irepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T18:54:34.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmployeeDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nelson paulino\\source\\repos\\employeeSystem\\Infrastructure\\Data\\EmployeeDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\EmployeeDbContext.cs",
+              "ToolTip": "C:\\Users\\Nelson paulino\\source\\repos\\employeeSystem\\Infrastructure\\Data\\EmployeeDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\EmployeeDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T19:34:15.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Nelson paulino\\source\\repos\\employeeSystem\\Infrastructure\\Data\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Nelson paulino\\source\\repos\\employeeSystem\\Infrastructure\\Data\\UnitOfWork.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T20:03:11.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Nelson paulino\\source\\repos\\employeeSystem\\Contracts\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Contracts\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Nelson paulino\\source\\repos\\employeeSystem\\Contracts\\IUnitOfWork.cs",
+              "RelativeToolTip": "Contracts\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T18:59:57.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Nelson paulino\\source\\repos\\employeeSystem\\Domain\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\Nelson paulino\\source\\repos\\employeeSystem\\Domain\\Entities\\Employee.cs",
+              "RelativeToolTip": "Domain\\Entities\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T18:37:46.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nelson paulino\\source\\repos\\employeeSystem\\Domain\\Dtos\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "Domain\\Dtos\\EmployeeDto.cs",
+              "ToolTip": "C:\\Users\\Nelson paulino\\source\\repos\\employeeSystem\\Domain\\Dtos\\EmployeeDto.cs",
+              "RelativeToolTip": "Domain\\Dtos\\EmployeeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T18:40:39.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Contracts.csproj",
+              "DocumentMoniker": "C:\\Users\\Nelson paulino\\source\\repos\\employeeSystem\\Contracts\\Contracts.csproj",
+              "RelativeDocumentMoniker": "Contracts\\Contracts.csproj",
+              "ToolTip": "C:\\Users\\Nelson paulino\\source\\repos\\employeeSystem\\Contracts\\Contracts.csproj",
+              "RelativeToolTip": "Contracts\\Contracts.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-25T18:35:11.806Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
